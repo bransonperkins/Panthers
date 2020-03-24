@@ -1,0 +1,67 @@
+body {
+	background-color: #BFC0BF;
+}
+
+.navbar {
+	text-transform: uppercase;
+	font-family: Times New Roman;
+	background-color: #0085CA
+}
+
+.jumbotron {
+	background-image:url('https://footballstadiumdigest.com/wp-content/uploads/2019/03/Bank-of-America-Stadium.jpg'); 
+	padding: 10%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	background-attachment: fixed;
+	color: white;
+	background-position: center bottom;
+	font-family: Georgia;
+}
+
+h1 {
+	color: black;
+	text-shadow: 2px 2px 2px #0085CA;
+}
+
+.animated {
+	color: black;
+	text-shadow: 2px 2px 2px #0085CA;
+}
+
+.container {
+	font-family: Georgia;
+}
+
+.headline {
+	text-transform: uppercase;
+	color: black;
+	text-shadow: 2px 2px 2px #0085CA;
+}
+
+.about-border {
+    display: block;
+    width: 100%;
+    height: 3px;
+    background: black;
+    margin: 20px auto;
+}
+
+.footer {
+	background-color: #0085CA;
+	background-size: cover;
+	width: 100%;
+	height: auto;
+	color: black;
+	font-family: Times New Roman;
+}
+
+.footer a {
+	color: black;
+}
+
+#footer-moments {
+	position: absolute;
+	bottom: 0;
+}
